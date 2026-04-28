@@ -1,0 +1,53 @@
+Egy Dorkcoin tárca, amiben biztonságosan és egyszerűen tárolhatod-, utalhatod a Dorkcoinodat, fogadhatsz Dorkcoin utalást és vásárolhatsz Dorkcoint.
+
+A DorkyWallet egy Dorkcoin tárca, ahol te irányítod a privát kulcsokat. Egy Dorkcoin tárca, amit Dorkcoin felhasználok készítettek a közösségnek. 
+
+Azonnal indíthatsz közvetlen tranzakciókat bárkinek a világon, egy gombnyomással megváltoztatva a pénzügyi rendszert. 
+
+Hozz létre korlátlan számú, ingyenes Dorkcoin tárcát vagy importáld a már meglévő tárcáidat. Egyszerűen és gyorsan.
+
+_____
+
+Amit kínálunk:
+
+
+1 - Tervezett biztonság 
+
+Nyílt forráskód
+MIT szabadalom alapján, fejlesztheted és futtasd: a sajátod!  Készült a ReactNative támogatásával.
+
+Feltételes elutasítás
+Jelszó, ami hamis tárca adatokat old fel, ha kényszerítenek a belépésre.
+
+Teljes titkosítás
+Az iOS többszintű titkosításán felül, mi jelszóval titkosítunk mindent 
+
+Teljes node
+Csatlakozz a saját Dorkcoin teljes node-hoz, Electrum tárcán keresztül.
+
+Offline háttértár 
+Csatlakozz a hardver tárcádhoz és tartsd a Dorkcoint offline.
+
+2 - Fókuszban a felhasználói élmény
+
+Te irányítasz
+A privát kulcsok soha nem hagyják el az eszközöd.
+Te irányítod a privát kulcsaid,
+
+Rugalmas tranzakciós díjjak
+Már 1 satoshi-tól. Te, a felhasználó választasz.
+
+Tranzakciós Díj Pótlás (RBF)
+(RBF) Gyorsítsd meg a tranzakciódat a tranzakciós díj növelésével (BIP125)
+
+Tárca - csak megtekintésre
+"Tárca - csak megtekintésre" lehetővé teszi, hogy szemmel tartsd az offline tárcád a hardver érintése nélkül.
+
+Lightning hálózat
+Lightning tárca, konfigurálás nélkül. Rendkívül olcsó és gyors tranzakció a legjobb Dorkcoin felhasználói élménnyel.
+
+Dorkcoin vétel
+Kapcsolódj be a nyílt pénzügyi forradalomba és vegyél Dorkcoint közvetlenül a tárcádba.
+
+Közeli elfogadóhelyek
+A peer-to-peer Dorkcoin kereskedési platform lehetővé teszi, hogy közvetlenül vegyél- és eladj Dorkcoint más felhasználóknak, közvetítő nélkül.
